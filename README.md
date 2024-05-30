@@ -1,5 +1,7 @@
 # Liminal Spaces and the Uncanny Valley
 
+**Note: This project is in the process of being open-sourced, which means that the Unity build is not complete or functional. Current work is being done to replace non-free assets. A build will be published and this note will be removed when the entire project is open sourced.**
+
 An Interdisciplinary Virtual Reality and Psychology Experimental Research Design
 
 This Unity project is a proof of concept for a virtual reality experimental research design in the field of psychology as part of research in Peak to Peak Charter School's Science Research Seminar and AP Psychology classes.
