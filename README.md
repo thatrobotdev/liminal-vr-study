@@ -14,9 +14,9 @@ This Unity project is a proof of concept for a virtual reality experimental rese
 * On December 6, 2023, the project was presented to the Peak to Peak Charter School Board of Directors to show how the initative to connect the psychology and computer science departments benefitted the school, serving as a practice presentation in preparation for science fair. ([research proposal](materials/Research%20Proposal.odt), [presentation](materials/Board%20of%20Directors%20Slideshow.odp))
 * On February 20th, 2024 this project was presented at the [52nd Corden Pharma Regional Science Fair](https://www.bvsd.org/parents-students/academics/bvsd-sponsored-events/science-fair) at Nevin Platt Middle School, which qualified to compete in the [Colorado Science and Engineering Fair](https://csef.natsci.colostate.edu/) at Colorado State University from April 11-13th, 2024. ([poster](materials/CSEF%20Poster%20Board.odp), [presentation](materials/CSEF%20Presentation.pdf))
 * On the project was presented to Boulder Valley School District Science Research Seminar students and faculty at the Boulder Valley School District Science Research Symposium. ([presentation](materials/Science%20Research%20Symposium%20Presentation.odp))
-* To demonstrate to educators how virtual reality could bridge high school psychology and technology departments, the project was presented at [ISTE Live 2024](https://conference.iste.org/2024/) from June 23rd-26th, 2024 in Denver, Colorado at the [Innovation Arcade](https://conference.iste.org/2024/program/innovationarcade.php).
+* To demonstrate to educators how virtual reality could bridge high school psychology and technology departments, the project was presented at [ISTELive 24](https://conference.iste.org/2024/) from June 23rd-26th, 2024 in Denver, Colorado at the [Innovation Arcade](https://conference.iste.org/2024/program/innovationarcade.php).
 
-<img src="images/ISTELive%2024%20Exhibitor%20Badge.jpg" alt="Iste Live 2024 Exhibitor Badge" style="height: 100px;">
+<img src="images/ISTELive%2024%20Exhibitor%20Badge.jpg" alt="ISTELive 2024 Exhibitor Badge" style="height: 100px;">
 
 ## How to run the application on a Meta Quest 2/3
 
